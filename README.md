@@ -1,7 +1,6 @@
 # mint-backgrounds-isadora
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-isadora?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-isadora-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-isadora-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-isadora)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-isadora`. Instead of building the
